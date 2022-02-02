@@ -3,6 +3,8 @@
 /.keystone/
 /.keystone
 
+.vscode
+
 .env
 
 .vscode
